@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "424103723110",
+    "firebase_url": "https://mapa-8a673-default-rtdb.firebaseio.com",
+    "project_id": "mapa-8a673",
+    "storage_bucket": "mapa-8a673.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424103723110:android:a0d8922d77186be5b3ada7",
+        "android_client_info": {
+          "package_name": "com.example.gpsuteq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVW5kPn7avBzLFY5AtRLeW_yyt9K-61qY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
